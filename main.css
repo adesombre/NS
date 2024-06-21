@@ -1,0 +1,35 @@
+div{
+    background-color: grey;
+    float:left;
+}
+#MenuHaut{
+   background-color: aquamarine;
+   width: 100%;
+   height: 200px;
+
+}
+ #Corps{
+   width: 100%;
+}
+.divLongue  {
+    width: 100%;
+   
+
+}
+#SousMenuA {
+    width: 250px; 
+    background-color: red;
+    height: 300px;
+    float:left;
+}
+#SousMenuB {
+    width: 250px; 
+    background-color: blue;
+    height: 100px;
+    float:left;
+}
+#foot {
+  background-color: rgb(159, 127, 255);
+  width: 100%;
+  height: 200px;
+}
